@@ -10,5 +10,5 @@ To get started:
 7) You can now view the website as an admin or registered user.
 8) The admin menu and forms allow the creation on new users and website content.
 
-The xampp contains everything required to run the website, including: 
+The xampp folder contains everything required to run the website, including: 
 Apache web server, MySQL database and PHP pre-hypertext processor.
