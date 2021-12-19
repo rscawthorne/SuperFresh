@@ -1,5 +1,13 @@
 # SuperFresh
 
+The xampp folder contains everything required to run the website, including: 
+Apache web server, MySQL database and PHP pre-hypertext processor.
+
+Files that were created by me can be found at:
+C:\xampp\htdocs\
+and,
+C:\xampp\mysql\data\freshveg
+
 To get started:
 1) Copy the xampp folder to C:\, so you have C:\xampp\
 2) Run xampp-control.exe
@@ -10,5 +18,4 @@ To get started:
 7) You can now view the website as an admin or registered user.
 8) The admin menu and forms allow the creation on new users and website content.
 
-The xampp folder contains everything required to run the website, including: 
-Apache web server, MySQL database and PHP pre-hypertext processor.
+Rafdi Cawthorne
