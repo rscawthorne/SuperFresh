@@ -9,7 +9,7 @@ and,
 C:\xampp\mysql\data\freshveg
   
 To get started:
-1) Copy the xampp folder to C:\, so you have C:\xampp\
+1) Copy the xampp folder to C:\\ so that you have C:\xampp\
 2) Run xampp-control.exe
 3) Start the Apache and MySQL services
 4) Click the [Admin] button on the Apache row, this will bring up the website.
