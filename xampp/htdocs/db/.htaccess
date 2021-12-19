@@ -1,0 +1,4 @@
+AuthUserFile /var/www/vhosts/bpcstudentweb.co.uk/httpdocs/fdsc2/sdemo/.htpasswd
+AuthType Basic
+AuthName "My Secret Folder"
+Require valid-user

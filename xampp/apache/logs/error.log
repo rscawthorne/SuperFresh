@@ -1,0 +1,32 @@
+[Tue Apr 13 10:47:18.335156 2021] [ssl:warn] [pid 17420:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 13 10:47:18.425227 2021] [ssl:warn] [pid 17420:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 13 10:47:18.865009 2021] [mpm_winnt:notice] [pid 17420:tid 576] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1j PHP/7.4.16 configured -- resuming normal operations
+[Tue Apr 13 10:47:18.865009 2021] [mpm_winnt:notice] [pid 17420:tid 576] AH00456: Apache Lounge VC15 Server built: Feb 18 2021 10:09:17
+[Tue Apr 13 10:47:18.865009 2021] [core:notice] [pid 17420:tid 576] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Tue Apr 13 10:47:18.865009 2021] [mpm_winnt:notice] [pid 17420:tid 576] AH00418: Parent: Created child process 11220
+[Tue Apr 13 10:47:19.340474 2021] [ssl:warn] [pid 11220:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 13 10:47:19.415330 2021] [ssl:warn] [pid 11220:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 13 10:47:19.455450 2021] [mpm_winnt:notice] [pid 11220:tid 584] AH00354: Child: Starting 150 worker threads.
+[Tue Apr 13 10:47:48.859436 2021] [php7:warn] [pid 11220:tid 1856] [client 127.0.0.1:56058] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'freshveg'@'localhost' (using password: YES) in D:\\xampp\\htdocs\\functions.php on line 12
+[Tue Apr 13 10:47:48.909391 2021] [php7:warn] [pid 11220:tid 1856] [client 127.0.0.1:56058] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in D:\\xampp\\htdocs\\show_meals_all.php on line 26
+[Tue Apr 13 10:47:48.909391 2021] [php7:warn] [pid 11220:tid 1856] [client 127.0.0.1:56058] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\\xampp\\htdocs\\show_meals_all.php on line 27
+[Tue Apr 13 10:47:48.909391 2021] [php7:warn] [pid 11220:tid 1856] [client 127.0.0.1:56058] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in D:\\xampp\\htdocs\\show_meals_all.php on line 28
+[Tue Apr 13 10:47:48.909391 2021] [php7:warn] [pid 11220:tid 1856] [client 127.0.0.1:56058] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in D:\\xampp\\htdocs\\show_meals_all.php on line 65
+[Tue Apr 13 10:47:48.909391 2021] [php7:warn] [pid 11220:tid 1856] [client 127.0.0.1:56058] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in D:\\xampp\\htdocs\\show_meals_all.php on line 68
+[Tue Apr 13 10:47:48.909391 2021] [php7:warn] [pid 11220:tid 1856] [client 127.0.0.1:56058] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in D:\\xampp\\htdocs\\footer.php on line 9
+[Tue Apr 13 10:54:27.997748 2021] [php7:error] [pid 11220:tid 1820] [client 127.0.0.1:56183] script 'D:/xampp/phpMyAdmin/db_structure.php' not found or unable to stat, referer: http://localhost/admin.php
+[Tue Apr 13 10:54:33.953568 2021] [php7:error] [pid 11220:tid 1820] [client 127.0.0.1:56183] script 'D:/xampp/phpMyAdmin/db_structure.php' not found or unable to stat, referer: http://localhost/admin.php
+[Tue Apr 13 10:54:48.445390 2021] [php7:error] [pid 11220:tid 1820] [client 127.0.0.1:56200] script 'D:/xampp/phpMyAdmin/db_structure.php' not found or unable to stat, referer: http://localhost/index.php
+[Tue Apr 13 12:02:59.235428 2021] [php7:notice] [pid 11220:tid 1820] [client 127.0.0.1:56716] PHP Notice:  Undefined index: week_id in D:\\xampp\\htdocs\\show_meals_week.php on line 4
+[Sun Dec 19 13:55:00.827456 2021] [ssl:warn] [pid 672:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 19 13:55:00.879784 2021] [core:warn] [pid 672:tid 588] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 19 13:55:00.890788 2021] [ssl:warn] [pid 672:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 19 13:55:01.339593 2021] [mpm_winnt:notice] [pid 672:tid 588] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1j PHP/7.4.16 configured -- resuming normal operations
+[Sun Dec 19 13:55:01.339593 2021] [mpm_winnt:notice] [pid 672:tid 588] AH00456: Apache Lounge VC15 Server built: Feb 18 2021 10:09:17
+[Sun Dec 19 13:55:01.339593 2021] [core:notice] [pid 672:tid 588] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Sun Dec 19 13:55:01.343595 2021] [mpm_winnt:notice] [pid 672:tid 588] AH00418: Parent: Created child process 1644
+[Sun Dec 19 13:55:01.682672 2021] [ssl:warn] [pid 1644:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 19 13:55:01.743684 2021] [ssl:warn] [pid 1644:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 19 13:55:01.769692 2021] [mpm_winnt:notice] [pid 1644:tid 576] AH00354: Child: Starting 150 worker threads.
+[Sun Dec 19 13:55:55.542590 2021] [php7:error] [pid 1644:tid 1824] [client 127.0.0.1:56682] script 'D:/xampp/phpMyAdmin/db_structure.php' not found or unable to stat, referer: http://localhost/admin.php
+[Sun Dec 19 13:56:06.560973 2021] [php7:error] [pid 1644:tid 1824] [client 127.0.0.1:56687] script 'D:/xampp/phpMyAdmin/db_structure.php' not found or unable to stat, referer: http://localhost/admin_weeklymeals.php

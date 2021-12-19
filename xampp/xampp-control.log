@@ -1,0 +1,75 @@
+10:47:09  [main] 	Initializing Control Panel
+10:47:09  [main] 	Windows Version:  Enterprise  64-bit
+10:47:09  [main] 	XAMPP Version: 7.4.16
+10:47:09  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+10:47:09  [main] 	You are not running with administrator rights! This will work for
+10:47:09  [main] 	most application stuff but whenever you do something with services
+10:47:09  [main] 	there will be a security dialogue or things will break! So think 
+10:47:09  [main] 	about running this application with administrator rights!
+10:47:09  [main] 	XAMPP Installation Directory: "d:\xampp\"
+10:47:09  [main] 	Checking for prerequisites
+10:47:09  [main] 	All prerequisites found
+10:47:09  [main] 	Initializing Modules
+10:47:09  [main] 	The FileZilla module is disabled
+10:47:09  [main] 	The Mercury module is disabled
+10:47:09  [main] 	Starting Check-Timer
+10:47:09  [main] 	Control Panel Ready
+10:47:12  [mysql] 	Attempting to start MySQL app...
+10:47:12  [mysql] 	Status change detected: running
+10:47:16  [Apache] 	Attempting to start Apache app...
+10:47:16  [Apache] 	Status change detected: running
+14:16:28  [Apache] 	Attempting to stop Apache (PID: 17420)
+14:16:28  [Apache] 	Attempting to stop Apache (PID: 11220)
+14:16:29  [Apache] 	Status change detected: stopped
+14:16:29  [mysql] 	Attempting to stop MySQL app...
+14:16:29  [mysql] 	Status change detected: stopped
+14:16:31  [main] 	Deinitializing Modules
+14:16:31  [main] 	Deinitializing Control Panel
+
+23:34:07  [main] 	Initializing Control Panel
+23:34:07  [main] 	Windows Version:  Enterprise  64-bit
+23:34:07  [main] 	XAMPP Version: 7.4.16
+23:34:07  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+23:34:07  [main] 	You are not running with administrator rights! This will work for
+23:34:07  [main] 	most application stuff but whenever you do something with services
+23:34:07  [main] 	there will be a security dialogue or things will break! So think 
+23:34:07  [main] 	about running this application with administrator rights!
+23:34:07  [main] 	XAMPP Installation Directory: "d:\xampp\"
+23:34:07  [main] 	Checking for prerequisites
+23:34:08  [main] 	All prerequisites found
+23:34:08  [main] 	Initializing Modules
+23:34:08  [main] 	The FileZilla module is disabled
+23:34:08  [main] 	The Mercury module is disabled
+23:34:08  [main] 	Starting Check-Timer
+23:34:08  [main] 	Control Panel Ready
+23:34:15  [main] 	Deinitializing Modules
+23:34:15  [main] 	Deinitializing Control Panel
+
+13:54:52  [main] 	Initializing Control Panel
+13:54:52  [main] 	Windows Version:  Enterprise  64-bit
+13:54:52  [main] 	XAMPP Version: 7.4.16
+13:54:52  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+13:54:52  [main] 	You are not running with administrator rights! This will work for
+13:54:52  [main] 	most application stuff but whenever you do something with services
+13:54:52  [main] 	there will be a security dialogue or things will break! So think 
+13:54:52  [main] 	about running this application with administrator rights!
+13:54:52  [main] 	XAMPP Installation Directory: "d:\xampp\"
+13:54:52  [main] 	Checking for prerequisites
+13:54:53  [main] 	All prerequisites found
+13:54:53  [main] 	Initializing Modules
+13:54:53  [main] 	The FileZilla module is disabled
+13:54:53  [main] 	The Mercury module is disabled
+13:54:53  [main] 	Starting Check-Timer
+13:54:53  [main] 	Control Panel Ready
+13:54:59  [Apache] 	Attempting to start Apache app...
+13:54:59  [Apache] 	Status change detected: running
+13:55:15  [mysql] 	Attempting to start MySQL app...
+13:55:15  [mysql] 	Status change detected: running
+14:05:33  [mysql] 	Attempting to stop MySQL app...
+14:05:33  [mysql] 	Status change detected: stopped
+14:05:33  [Apache] 	Attempting to stop Apache (PID: 672)
+14:05:33  [Apache] 	Attempting to stop Apache (PID: 1644)
+14:05:34  [Apache] 	Status change detected: stopped
+14:05:35  [main] 	Deinitializing Modules
+14:05:35  [main] 	Deinitializing Control Panel
+
