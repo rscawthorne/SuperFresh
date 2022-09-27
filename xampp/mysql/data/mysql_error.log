@@ -42,3 +42,23 @@ InnoDB: using atomic writes.
 2021-12-19 13:55:16 0 [Note] Plugin 'FEEDBACK' is disabled.
 2021-12-19 13:55:16 0 [Note] InnoDB: Buffer pool(s) load completed at 211219 13:55:16
 2021-12-19 13:55:16 0 [Note] Server socket created on IP: '::'.
+InnoDB: using atomic writes.
+2022-09-27 14:18:24 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-09-27 14:18:24 0 [Note] InnoDB: Uses event mutexes
+2022-09-27 14:18:24 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-09-27 14:18:24 0 [Note] InnoDB: Number of pools: 1
+2022-09-27 14:18:24 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-09-27 14:18:24 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-09-27 14:18:24 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-09-27 14:18:24 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=339167
+2022-09-27 14:18:25 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-09-27 14:18:25 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-09-27 14:18:25 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-09-27 14:18:25 0 [Note] InnoDB: Setting file '\Users\Cosmic\Documents\GitHub\SuperFresh\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-09-27 14:18:25 0 [Note] InnoDB: File '\Users\Cosmic\Documents\GitHub\SuperFresh\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-09-27 14:18:25 0 [Note] InnoDB: Waiting for purge to start
+2022-09-27 14:18:25 0 [Note] InnoDB: 10.4.18 started; log sequence number 339176; transaction id 266
+2022-09-27 14:18:25 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Cosmic\Documents\GitHub\SuperFresh\xampp\mysql\data\ib_buffer_pool
+2022-09-27 14:18:25 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-09-27 14:18:25 0 [Note] InnoDB: Buffer pool(s) load completed at 220927 14:18:25
+2022-09-27 14:18:25 0 [Note] Server socket created on IP: '::'.

@@ -26,7 +26,7 @@ goto endofperl
 @rem ';
 #!perl
 #line 29
-    eval 'exec \xampp\perl\bin\perl.exe -S $0 ${1+"$@"}'
+    eval 'exec \Users\Cosmic\Documents\GitHub\SuperFresh\xampp\perl\bin\perl.exe -S $0 ${1+"$@"}'
         if $running_under_some_shell;
 
 # perlivp v5.32.0
@@ -72,7 +72,7 @@ my $pass__total = 0;
 my $error_total = 0;
 my $tests_total = 0;
 
-my $perlpath = '\xampp\perl\bin\perl.exe';
+my $perlpath = '\Users\Cosmic\Documents\GitHub\SuperFresh\xampp\perl\bin\perl.exe';
 my $useithreads = 'define';
 
 print "## Checking Perl binary via variable '\$perlpath' = $perlpath.\n" if $opt{'p'};

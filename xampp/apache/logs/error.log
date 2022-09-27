@@ -30,3 +30,13 @@
 [Sun Dec 19 13:55:01.769692 2021] [mpm_winnt:notice] [pid 1644:tid 576] AH00354: Child: Starting 150 worker threads.
 [Sun Dec 19 13:55:55.542590 2021] [php7:error] [pid 1644:tid 1824] [client 127.0.0.1:56682] script 'D:/xampp/phpMyAdmin/db_structure.php' not found or unable to stat, referer: http://localhost/admin.php
 [Sun Dec 19 13:56:06.560973 2021] [php7:error] [pid 1644:tid 1824] [client 127.0.0.1:56687] script 'D:/xampp/phpMyAdmin/db_structure.php' not found or unable to stat, referer: http://localhost/admin_weeklymeals.php
+[Tue Sep 27 14:18:37.544245 2022] [ssl:warn] [pid 6668:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 27 14:18:37.616245 2022] [core:warn] [pid 6668:tid 592] AH00098: pid file C:/Users/Cosmic/Documents/GitHub/SuperFresh/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 27 14:18:37.620245 2022] [ssl:warn] [pid 6668:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 27 14:18:38.079008 2022] [mpm_winnt:notice] [pid 6668:tid 592] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1j PHP/7.4.16 configured -- resuming normal operations
+[Tue Sep 27 14:18:38.079008 2022] [mpm_winnt:notice] [pid 6668:tid 592] AH00456: Apache Lounge VC15 Server built: Feb 18 2021 10:09:17
+[Tue Sep 27 14:18:38.079008 2022] [core:notice] [pid 6668:tid 592] AH00094: Command line: 'c:\\users\\cosmic\\documents\\github\\superfresh\\xampp\\apache\\bin\\httpd.exe -d C:/Users/Cosmic/Documents/GitHub/SuperFresh/xampp/apache'
+[Tue Sep 27 14:18:38.083009 2022] [mpm_winnt:notice] [pid 6668:tid 592] AH00418: Parent: Created child process 428
+[Tue Sep 27 14:18:38.647009 2022] [ssl:warn] [pid 428:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 27 14:18:38.707009 2022] [ssl:warn] [pid 428:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 27 14:18:38.751009 2022] [mpm_winnt:notice] [pid 428:tid 604] AH00354: Child: Starting 150 worker threads.

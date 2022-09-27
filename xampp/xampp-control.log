@@ -73,3 +73,60 @@
 14:05:35  [main] 	Deinitializing Modules
 14:05:35  [main] 	Deinitializing Control Panel
 
+14:18:02  [main] 	Initializing Control Panel
+14:18:02  [main] 	Windows Version:  Home  64-bit
+14:18:02  [main] 	XAMPP Version: 7.4.16
+14:18:02  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+14:18:02  [main] 	You are not running with administrator rights! This will work for
+14:18:02  [main] 	most application stuff but whenever you do something with services
+14:18:02  [main] 	there will be a security dialogue or things will break! So think 
+14:18:02  [main] 	about running this application with administrator rights!
+14:18:02  [main] 	XAMPP Installation Directory: "c:\users\cosmic\documents\github\superfresh\xampp\"
+14:18:02  [main] 	Checking for prerequisites
+14:18:02  [main] 	All prerequisites found
+14:18:02  [main] 	Initializing Modules
+14:18:02  [main] 	The FileZilla module is disabled
+14:18:02  [main] 	The Mercury module is disabled
+14:18:02  [main] 	Starting Check-Timer
+14:18:02  [main] 	Control Panel Ready
+14:18:04  [mysql] 	Attempting to start MySQL app...
+14:18:04  [mysql] 	Status change detected: running
+14:18:05  [mysql] 	Status change detected: stopped
+14:18:05  [mysql] 	Error: MySQL shutdown unexpectedly.
+14:18:05  [mysql] 	This may be due to a blocked port, missing dependencies, 
+14:18:05  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+14:18:05  [mysql] 	Press the Logs button to view error logs and check
+14:18:05  [mysql] 	the Windows Event Viewer for more clues
+14:18:05  [mysql] 	If you need more help, copy and post this
+14:18:05  [mysql] 	entire log window on the forums
+14:18:09  [main] 	Deinitializing Modules
+14:18:09  [main] 	Deinitializing Control Panel
+
+14:18:22  [main] 	Initializing Control Panel
+14:18:22  [main] 	Windows Version:  Home  64-bit
+14:18:22  [main] 	XAMPP Version: 7.4.16
+14:18:22  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+14:18:22  [main] 	You are not running with administrator rights! This will work for
+14:18:22  [main] 	most application stuff but whenever you do something with services
+14:18:22  [main] 	there will be a security dialogue or things will break! So think 
+14:18:22  [main] 	about running this application with administrator rights!
+14:18:22  [main] 	XAMPP Installation Directory: "c:\users\cosmic\documents\github\superfresh\xampp\"
+14:18:22  [main] 	Checking for prerequisites
+14:18:22  [main] 	All prerequisites found
+14:18:22  [main] 	Initializing Modules
+14:18:22  [main] 	The FileZilla module is disabled
+14:18:22  [main] 	The Mercury module is disabled
+14:18:22  [main] 	Starting Check-Timer
+14:18:22  [main] 	Control Panel Ready
+14:18:24  [mysql] 	Attempting to start MySQL app...
+14:18:24  [mysql] 	Status change detected: running
+14:18:35  [Apache] 	Attempting to start Apache app...
+14:18:35  [Apache] 	Status change detected: running
+14:18:46  [Apache] 	Attempting to stop Apache (PID: 6668)
+14:18:46  [Apache] 	Attempting to stop Apache (PID: 428)
+14:18:46  [Apache] 	Status change detected: stopped
+14:18:47  [mysql] 	Attempting to stop MySQL app...
+14:18:47  [mysql] 	Status change detected: stopped
+14:18:48  [main] 	Deinitializing Modules
+14:18:48  [main] 	Deinitializing Control Panel
+
